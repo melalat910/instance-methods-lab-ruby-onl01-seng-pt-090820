@@ -7,5 +7,5 @@ class Person
   end
 end
 ada = Person.new
-Person.talk
-Person.walk
+ada.talk
+ada.walk
